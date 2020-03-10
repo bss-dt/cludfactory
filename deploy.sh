@@ -1,3 +1,3 @@
 hello all
 this is new deploy file
-we have new deploy file (1)
+deploy into server1 and next server2 and server3
